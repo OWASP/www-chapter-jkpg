@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Jkpg
+title: OWASP JKPG
 tags: example-tag
 level: 0
 
