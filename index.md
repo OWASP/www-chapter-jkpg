@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP JKPG
-tags: jpkg
+tags: jkpg
 region: Europe
 
 ---
