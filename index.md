@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP JKPG
 tags: jkpg
 region: Europe
+auto-migrated: true
 
 ---
 
