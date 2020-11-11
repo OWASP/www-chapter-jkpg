@@ -13,3 +13,6 @@ region: Europe
 
 Upcomming events 
 
+2020-11-19
+Social engeneering med Hanna Ljung 
+Detaljer kommer . . . 
