@@ -1,5 +1,5 @@
 ---
-title: Past events
+title: past
 displaytext: Past Events
 layout:  null
 tab: true
@@ -55,5 +55,4 @@ systems.
 
 
 
-> **Subscribe to the [OWASP JKPG mailing
-> list](https://groups.google.com/a/owasp.org/forum/#!forum/jonkoping-chapter)**
+Subscribe to the [OWASP JKPG mailing list](https://groups.google.com/a/owasp.org/forum/#!forum/jonkoping-chapter)
