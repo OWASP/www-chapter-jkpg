@@ -20,6 +20,8 @@ region: Europe
 
 **Time:** 19:00
 
+**Event link:** [Watch on YouTube](https://youtu.be/Wvcd5G01lxo)
+
 Manipulating people has always been a beneficial approach for criminals. This
 also applies to our digital world. Social engineering is a tool used by
 criminals in cyber-attacks and it targets the user - you. Social engineering is
