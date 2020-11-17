@@ -34,12 +34,3 @@ and her goal is to reduce human risk, By supporting our users to become more
 security-aware, we are simultaneously minimizing the cyber-criminal´s attack
 surface.  Questions you will get answered during this session:
 
-- What is social engineering?
-- How is social engineering used in a cyber-attack?
-- Why are you a target?
-
-## The Automated Society - Dystopia, Utopia, or something in between?
-
-Speaker: Niklas Lavesson, Jönköping University
-2021-01-28
-Time 19:00
