@@ -11,6 +11,14 @@ region: Europe
 
 ---
 
+Welcome to OWASP JKPG, the local OWASP chapter for the Jönköping area.
+
+During the pandemic, we are broadcasting our events live on our [YouTube channel](https://www.youtube.com/channel/UC6WOZS874JpjdA_j6mhtjHQ).
+
+The best way to stay updated on our events is to subscribe to our [mailing list](https://groups.google.com/a/owasp.org/g/jonkoping-chapter).
+
+We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
+
 # Upcoming events 
 
 ## Social Engineering - You Are a Target 
@@ -49,6 +57,6 @@ surface".  Questions you will get answered during this session:
 
 **Date:** 2021-01-28
 
-More details coming soon.
-
 **Time:** 19:00
+
+More details coming soon.
