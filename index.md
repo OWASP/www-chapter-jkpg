@@ -81,7 +81,7 @@ Man kan inte ha informationssäkerhet utan krypto. Sekretess, riktighet och till
 
 Jonathan Jogenfors är kryptografiexpert som arbetar som senior informationssäkerhetskonsult på Atea i Jönköping. Han är med och driver OWASP JKPG och har tidigare varit forskningschef på Sectra Communications i Linköping där han arbetat med kryptoutrustning på högsta nivå. Utöver det är disputerad från Linköpings Universitet med en avhandling om kvantkryptering.
 
-Slides: Coming soon
+**Slides:** [Available here](assets/slides/jonathan-jogenfors-crypto-slides.pdf)
 
 ## Security pub
 
