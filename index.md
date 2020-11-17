@@ -107,6 +107,7 @@ We discuss three low hanging fruit that are easy to fix yet critical for a secur
 ## Defending Our Connected Society
 
 **Date:** 2019-03-07
+
 **Time:** 18:00
 
 Location: Atea, Bataljonsgatan 12 Jönköping
