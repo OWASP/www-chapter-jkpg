@@ -29,8 +29,4 @@ information. But how does it work?
 As a behavioural scientist, Hanna Ljung has a deep understanding of human
 psychology and complex behaviour. She is an ethical hacker and will share real
 life stories from when she herself used social engineering to attack
-organizations and its users. Today, Hanna works as a security awareness expert
-and her goal is to reduce human risk, "By supporting our users to become more
-security-aware, we are simultaneously minimizing the cyber-criminal´s attack
-surface".  Questions you will get answered during this session:
-
+organizations and its users. 
