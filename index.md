@@ -14,11 +14,11 @@ region: Europe
 # Upcoming events 
 
 ## Social Engineering - You Are a Target 
-Speaker: Hanna Ljung, Swedbank.
+**Speaker:** Hanna Ljung, Swedbank.
 
-Date 2020-11-19
+**Date:** 2020-11-19
 
-Time 19:00
+**Time:** 19:00
 
 Manipulating people has always been a beneficial approach for criminals. This
 also applies to our digital world. Social engineering is a tool used by
@@ -37,3 +37,8 @@ surface".  Questions you will get answered during this session:
 - What is social engineering?
 - How is social engineering used in a cyber-attack?
 - Why are you a target?
+
+## The Automated Society - Dystopia, Utopia, or something in between?
+
+**Date:** 2021-01-28
+**Time:** 19:00
