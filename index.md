@@ -15,7 +15,8 @@ region: Europe
 
 ## Social Engineering - You Are a Target 
 
-![Social Engineering - You Are a Target ](assets/images/hanna-ljung-social-engineering.jpg)
+<img alt="Social Engineering - You Are a Target" href="assets/images/hanna-ljung-social-engineering.jpg" width="200px"/>
+
 **Speaker:** Hanna Ljung, Swedbank.
 
 **Date:** 2020-11-19
