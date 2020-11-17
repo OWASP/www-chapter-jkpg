@@ -14,6 +14,8 @@ region: Europe
 # Upcoming events 
 
 ## Social Engineering - You Are a Target 
+
+![Social Engineering - You Are a Target ](assets/images/hanna-ljung-social-engineering.jpg)
 **Speaker:** Hanna Ljung, Swedbank.
 
 **Date:** 2020-11-19
@@ -45,5 +47,7 @@ surface".  Questions you will get answered during this session:
 **Speaker:** Niklas Lavesson, Jönköping University
 
 **Date:** 2021-01-28
+
+More details coming soon.
 
 **Time:** 19:00
