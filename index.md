@@ -114,7 +114,7 @@ Janne Haldesten is a fairly seasoned specialist and adviser who lives and breath
 
 Janne is often invited as speaker/panellist at events worldwide (e.g. Estonia, Finland, Sweden, Spain, United Kingdom, United States).
 
-###The world's largest cyber defence exercise Locked Shields
+### The world's largest cyber defence exercise Locked Shields
 **Speaker:** Thomas Svensson
 Hur förbereder man sig på att hantera större IT-attacker? Att öva under kontrollerbara former är ett sätt. Thomas Svensson kommer presentera hur en av världens största cyberförsvarsövningar planeras och genomförs.
 
