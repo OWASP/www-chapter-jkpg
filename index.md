@@ -33,6 +33,8 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 **Event link:** [Watch on YouTube](https://youtu.be/Wvcd5G01lxo)
 
+**Facebook link:** [Click here](https://www.facebook.com/events/2768524430027035)
+
 Manipulating people has always been a beneficial approach for criminals. This
 also applies to our digital world. Social engineering is a tool used by
 criminals in cyber-attacks and it targets the user - you. Social engineering is
@@ -73,6 +75,8 @@ More details coming soon.
 
 **Event link:** [Watch on YouTube](https://youtu.be/HEB41hchym0)
 
+**Facebook link:** [Click here](https://www.facebook.com/events/977081229457009/)
+
 Man kan inte ha informationssäkerhet utan krypto. Sekretess, riktighet och tillgänglighet bygger alla på att vi har robusta metoder för att kryptera, skapa digitala signaturer och göra kontrollsummor. I detta föredrag får ni en snabbkurs i hur krypto fungerar och bra tips på hur man använder det på bästa sätt för att öka sin säkerhetsnivå. Vilka är de senaste trenderna, och vilka fallgropar bör man undvika? Målet är att ni ska sluta vara oroliga för krypto!
 
 Jonathan Jogenfors är kryptografiexpert som arbetar som senior informationssäkerhetskonsult på Atea i Jönköping. Han är med och driver OWASP JKPG och har tidigare varit forskningschef på Sectra Communications i Linköping där han arbetat med kryptoutrustning på högsta nivå. Utöver det är disputerad från Linköpings Universitet med en avhandling om kvantkryptering.
@@ -82,7 +86,9 @@ Slides: Coming soon
 ## Security pub
 
 **Date:** 2019-11-07
+
 **Time:** 17:30
+
 **Place:** New York Legends, Lillsjöraden 16 Jönköping
 
 We had a social gathering at a local pub.
@@ -116,6 +122,7 @@ Janne is often invited as speaker/panellist at events worldwide (e.g. Estonia, F
 
 ### The world's largest cyber defence exercise Locked Shields
 **Speaker:** Thomas Svensson
+
 Hur förbereder man sig på att hantera större IT-attacker? Att öva under kontrollerbara former är ett sätt. Thomas Svensson kommer presentera hur en av världens största cyberförsvarsövningar planeras och genomförs.
 
 Thomas är biträdande övningsledare för Locked Shields som genomförs årligen med idag mer än 30 länder involverade.
