@@ -7,38 +7,33 @@ order: 2
 tags: jkpg
 ---
 
-## 2020
-### Social engeneering
+# Past events
 
+## Kryptografi - Hur jag slutade ängslas och lärde mig älska krypto 
 
-### Kryptografi - Hur jag slutade ängslas och lärde mig älska krypto 
 2020-10-08 
-Lecture by Jonathan Jogenfors. Availiable here: [link|https://www.youtube.com/watch?v=HEB41hchym0&feature=youtu.be]
+
+Lecture by Jonathan Jogenfors. Availiable here: [link](https://youtu.be/HEB41hchym0)
 
 
-### säkerhetspub
-2019-11-07
-Security geeks meet at the New Your Legens säkpub start 17:30.  Lilsjöraden 16, Jönköping
-Local News
+## Säkerhetspub
 
-`Slides now available, see Past events below. `
+**Date:** 2019-11-07
+**Time:** 17:30
+**Place:** New York Legends, Lillsjöraden 16 Jönköping
 
-Everyone is welcome to join us at our chapter meetings.
+We had a social gathering at a local pub.
 
-#### säkerhetspub
-Join colleges and security geeks at the säkpub torsdagen den 7 november
-start 17:30. New Your Legens, Lilsjöraden 16, Jönköping
+## Secure your IT environment now\!
 
-## 2019
-### OWASP JKPG
 2019-05-21
-Secure your IT environment now\! We discuss three low hanging fruit,
+ We discuss three low hanging fruit,
 easy to fix but yet critical for a secure organisation.
   - [Securing your web-server](https://github.com/owaspjkpg/public/blob/master/Mars%2021%2C%202019/Secure%20your%20web%20services.pdf)
   - [Securing your email](https://github.com/owaspjkpg/public/blob/master/Mars%2021%2C%202019/Secure%20your%20email.pdf)
   - [Protect your digital privacy](https://github.com/owaspjkpg/public/blob/master/Mars%2021%2C%202019/Digital%20Privacy.pdf)
 
-### OWASP JKPG 
+## Defending the connected society  
 2019-03-07
 Defending the connected society - IT security, Janne Haldesten and The
 worlds largest cyber defence exerse Locked sheilds, Thomas Svensson.
