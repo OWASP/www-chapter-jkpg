@@ -10,16 +10,15 @@ country: Sweden
 region: Europe
 
 ---
-Welcome to the OWASP chapter in Jönköping, Sweden.
 
 # Upcoming events 
 
 ## Social Engineering - You Are a Target 
 Speaker: Hanna Ljung, Swedbank.
 
-Date: 2020-11-19
+Date 2020-11-19
 
-Time: 19:00
+Time 19:00
 
 Manipulating people has always been a beneficial approach for criminals. This
 also applies to our digital world. Social engineering is a tool used by
@@ -43,4 +42,4 @@ surface".  Questions you will get answered during this session:
 
 Speaker: Niklas Lavesson, Jönköping University
 2021-01-28
-Time: 19:00
+Time 19:00
