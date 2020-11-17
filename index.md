@@ -42,7 +42,7 @@ surface".  Questions you will get answered during this session:
 
 ## The Automated Society - Dystopia, Utopia, or something in between?
 
-**Speaker:** Niklas Lavesson, Jonkoping University
+**Speaker:** Niklas Lavesson, Jönköping University
 
 **Date:** 2021-01-28
 
