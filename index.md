@@ -33,3 +33,7 @@ organizations and its users. Today, Hanna works as a security awareness expert
 and her goal is to reduce human risk, "By supporting our users to become more
 security-aware, we are simultaneously minimizing the cyber-criminals attack
 surface".  Questions you will get answered during this session:
+
+- What is social engineering?
+- How is social engineering used in a cyber-attack?
+- Why are you a target?
