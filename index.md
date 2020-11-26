@@ -21,6 +21,19 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 # Upcoming events
 
+## The Automated Society - Dystopia, Utopia, or something in between?
+
+**Speaker:** Niklas Lavesson, Jönköping University
+
+**Date:** 2021-01-28
+
+**Time:** 19:00
+
+**Event link:** 
+
+
+# Past events
+
 ## Social Engineering - You Are a Target 
 
 <img alt="Social Engineering - You Are a Target" src="assets/images/hanna-ljung-social-engineering.jpg" width="500px"/>
@@ -52,18 +65,6 @@ surface".  Questions you will get answered during this session:
 - What is social engineering?
 - How is social engineering used in a cyber-attack?
 - Why are you a target?
-
-## The Automated Society - Dystopia, Utopia, or something in between?
-
-**Speaker:** Niklas Lavesson, Jönköping University
-
-**Date:** 2021-01-28
-
-**Time:** 19:00
-
-More details coming soon.
-
-# Past events
 
 ## How I Learned to Stop Worrying and Love Cryptography
 
