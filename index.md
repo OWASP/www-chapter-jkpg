@@ -5,7 +5,7 @@ title: OWASP JKPG
 tags: jkpg
 type: example
 altfooter: true
-meetup-group: jkpg
+meetup-group: owasp-jonkoping-meetup-group
 country: Sweden
 region: Europe
 
@@ -20,6 +20,8 @@ The best way to stay updated on our events is to subscribe to our [mailing list]
 We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 # Upcoming events
+
+{% include chapter_events.html group=page.meetup-group %}
 
 ## The Automated Society - Dystopia, Utopia, or something in between?
 
