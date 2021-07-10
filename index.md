@@ -23,18 +23,46 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 {% include chapter_events.html group=page.meetup-group %}
 
+
+
+# Past events
+## Gråzoner och Nation State-attacker
+<img alt="Gråzoner" src="assets/images/leif-nixon-grazoner.jpg" width="500px"/>
+**Speaker:* Leif Nixon, Sectra Communications
+
+**Date:** 2021-06-10
+
+**Time:** 16:00
+
+**Facebook link:** [Click here](https://www.facebook.com/events/709353853083225/)
+
+**Event link:** [Watch on YouTube](https://www.youtube.com/watch?v=82SyPrNTpbE)
+
+## Vad får man egentligen lagra i molnet?
+<img alt="Vad får man egentligen lagra i molnet?" src="assets/images/daniel-melin-molnet.jpg" width="500px"/>
+**Speaker:* Daniel Melin, Skatteverket
+
+**Date:** 2021-04-13
+
+**Time:** 16:00
+
+**Facebook link:** [Click here](https://www.facebook.com/events/287160976099067/)
+
+**Event link:** [Watch on YouTube](https://youtu.be/cEGF63tlPr4)
+
+Daniel Melin arbetar med strategiska frågor runt it-drift, datacenter och molntjänster på Skatteverket. Daniel har en bakgrund som upphandlare på Kammarkollegiet och som it-konsult. Daniel var även utredningssekreterare i Statens servicecenters utredning om en statlig molntjänst.
+
 ## The Automated Society - Dystopia, Utopia, or something in between?
 
+<img alt="Niklas Lavesson - The Automated Society" src="assets/images/niklas-lavesson-automated-society.jpg" width="500px"/>
 **Speaker:** Niklas Lavesson, Jönköping University
 
 **Date:** 2021-01-28
 
 **Time:** 19:00
 
-**Event link:** 
-
-
-# Past events
+**Facebook link:** [Click here](https://www.facebook.com/events/709353853083225/)
+**Event link:** [Watch on YouTube](https://www.youtube.com/watch?v=nxdkqkY3BwQ)
 
 ## Social Engineering - You Are a Target 
 
@@ -45,8 +73,6 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 **Date:** 2020-11-19
 
 **Time:** 19:00
-
-**Event link:** [Watch on YouTube](https://youtu.be/Wvcd5G01lxo)
 
 **Facebook link:** [Click here](https://www.facebook.com/events/2768524430027035)
 
