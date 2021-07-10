@@ -28,6 +28,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 # Past events
 ## Gråzoner och Nation State-attacker
 <img alt="Gråzoner" src="assets/images/leif-nixon-grazoner.jpg" width="500px"/>
+
 **Speaker:* Leif Nixon, Sectra Communications
 
 **Date:** 2021-06-10
@@ -39,7 +40,9 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 **Event link:** [Watch on YouTube](https://www.youtube.com/watch?v=82SyPrNTpbE)
 
 ## Vad får man egentligen lagra i molnet?
+
 <img alt="Vad får man egentligen lagra i molnet?" src="assets/images/daniel-melin-molnet.jpg" width="500px"/>
+
 **Speaker:* Daniel Melin, Skatteverket
 
 **Date:** 2021-04-13
@@ -55,6 +58,7 @@ Daniel Melin arbetar med strategiska frågor runt it-drift, datacenter och molnt
 ## The Automated Society - Dystopia, Utopia, or something in between?
 
 <img alt="Niklas Lavesson - The Automated Society" src="assets/images/niklas-lavesson-automated-society.jpg" width="500px"/>
+
 **Speaker:** Niklas Lavesson, Jönköping University
 
 **Date:** 2021-01-28
