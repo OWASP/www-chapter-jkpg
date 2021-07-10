@@ -35,7 +35,7 @@ Stay tuned for late 2021!
 
 **Time:** 16:00
 
-**Facebook link:** [Click here](https://www.facebook.com/events/709353853083225/)
+**Facebook link:** [Click here](https://www.facebook.com/events/113349174176881/)
 
 **Event link:** [Watch on YouTube](https://www.youtube.com/watch?v=82SyPrNTpbE)
 
