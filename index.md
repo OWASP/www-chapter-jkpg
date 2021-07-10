@@ -23,8 +23,6 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 {% include chapter_events.html group=page.meetup-group %}
 
-
-
 # Past events
 ## Gråzoner och Nation State-attacker
 <img alt="Gråzoner" src="assets/images/leif-nixon-grazoner.jpg" width="500px"/>
@@ -43,7 +41,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 <img alt="Vad får man egentligen lagra i molnet?" src="assets/images/daniel-melin-molnet.jpg" width="500px"/>
 
-**Speaker:* Daniel Melin, Skatteverket
+**Speaker:** Daniel Melin, Skatteverket
 
 **Date:** 2021-04-13
 
@@ -66,6 +64,7 @@ Daniel Melin arbetar med strategiska frågor runt it-drift, datacenter och molnt
 **Time:** 19:00
 
 **Facebook link:** [Click here](https://www.facebook.com/events/709353853083225/)
+
 **Event link:** [Watch on YouTube](https://www.youtube.com/watch?v=nxdkqkY3BwQ)
 
 ## Social Engineering - You Are a Target 
