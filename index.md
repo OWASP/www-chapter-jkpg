@@ -23,11 +23,13 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 {% include chapter_events.html group=page.meetup-group %}
 
+Stay tuned for late 2021!
+
 # Past events
 ## Gråzoner och Nation State-attacker
 <img alt="Gråzoner" src="assets/images/leif-nixon-grazoner.jpg" width="500px"/>
 
-**Speaker:* Leif Nixon, Sectra Communications
+**Speaker:** Leif Nixon, Sectra Communications
 
 **Date:** 2021-06-10
 
