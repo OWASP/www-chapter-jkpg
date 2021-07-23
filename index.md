@@ -19,6 +19,11 @@ The best way to stay updated on our events is to subscribe to our [mailing list]
 
 We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
+# OWSP fyller 20
+
+Det firas med en online-konferens den 24 september. 
+<img alt="OWASP 20 anniversiry" src="assets/images/OWASP 20th Anniversary.jpeg"/>
+
 # Upcoming events
 
 {% include chapter_events.html group=page.meetup-group %}
