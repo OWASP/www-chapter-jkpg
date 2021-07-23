@@ -21,9 +21,9 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 # OWSP fyller 20
 
-Det firas med en online-konferens den 24 september. 
+Det firas med en [online-konferens den 24 september|https://20thanniversary.owasp.org/]. 
 
-<img alt="OWASP 20 anniversiry" src="assets/images/OWASP-20th-Anniversary.jpeg" width=100px />
+[<img alt="OWASP 20 anniversiry" src="assets/images/OWASP-20th-Anniversary.jpeg" width=100px />|https://20thanniversary.owasp.org/]
 
 # Upcoming events
 
