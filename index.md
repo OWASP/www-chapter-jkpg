@@ -40,9 +40,11 @@ Lars har jobbat med molnet sedan 2008, både inom industrin och akademin. Han di
 
 **Date:** 2021-09-23
 
-**Time:** 16:00
+**Time:** 16:00 - 17:00
 
-**Plats:** Sänds direkt på Youtube. Länk publiceras snart . . . 
+**Event link:** [Watch on YouTube](https://youtu.be/gytb5oBb9gM)
+
+**Facebook link:** /kommer snart/
 
 # Past events
 ## Gråzoner och Nation State-attacker
