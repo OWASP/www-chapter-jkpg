@@ -1,0 +1,58 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20210909T150728Z
+DESCRIPTION:Abstract: Med avstamp i de Kubernetes Security Guidance best pr
+	actices som Amerikanska NSA och CISA publicerade i augusti 2021 guidar Lar
+	s oss i området Kubernetes och säkerhet. Räcker att köra Kubescape\, d
+	et att följa de amerikanska riktlinjerna\, eller behöver mer göras för
+	 att få en säker Kubernetes-plattform?\n \nSpeaker: Lars Larsson Elastis
+	ys AB\nLars har jobbat med molnet sedan 2008\, både inom industrin och ak
+	ademin. Han disputerade i datavetenskap 2020 och är senior cloud architec
+	t på Elastisys. Han är en av arkitekterna bakom Compliant Kubernetes\, e
+	n certified Kubernetes distribution\, speciellt framtagen för att möta d
+	e höga krav på säkerhet som ställs inom reglerade branscher.\n \nDate:
+	 2021-09-23\n \nTime: 16:00 - 17:00\n \n \nWatch on YouTube <https://youtu
+	.be/gytb5oBb9gM> \n
+DTEND;TZID="W. Europe Standard Time":20210923T170000
+DTSTAMP:20210909T150728Z
+DTSTART;TZID="W. Europe Standard Time":20210923T160000
+LAST-MODIFIED:20210909T150728Z
+LOCATION:Online
+PRIORITY:5
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-se:Att bygga en säker Kubernetes-plattform 2021
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000090343F2B9DA5D701000000000000000
+	010000000CC1A134F07FEE74993B962606CF82761
+
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-CONFTYPE:0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
