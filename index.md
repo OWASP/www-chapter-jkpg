@@ -42,6 +42,8 @@ Lars har jobbat med molnet sedan 2008, både inom industrin och akademin. Han di
 
 **Time:** 16:00 - 17:00
 
+**Add to calendar:** [Att_bygga_en_säker_Kubernetes-plattform_2021.ics](assets/Att_bygga_en_säker_Kubernetes-plattform_2021.ics)
+
 **Event link:** [Watch on YouTube](https://youtu.be/gytb5oBb9gM)
 
 **Facebook link:** /kommer snart/
