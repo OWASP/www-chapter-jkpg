@@ -32,7 +32,7 @@ Det firas med en [online-konferens den 24 september](https://20thanniversary.owa
 ## Att bygga en säker Kubernetes-plattform 2021
 <img alt="Lars Larsson" src="assets/images/llarsson9.16.jpg" width="500px"/>
 
-**Abstract:** Med avstamp i de Kubernetes Security Guidance best practices som Amerikanska NSA och CISA publicerade i augusti 2021 guidar Lars oss i området Kubernetes och säkerhet. Räcker att köra Kubescape, det att följa de amerikanska riktlinjerna, eller behöver mer göras för att få en säker Kubernetes-plattform?
+**Abstract:** Med avstamp i de Kubernetes Security Guidance best practices som Amerikanska NSA och CISA publicerade i augusti 2021 guidar Lars oss i området Kubernetes och säkerhet. Räcker det att köra Kubescape, räcker det att följa de amerikanska riktlinjerna, eller behöver mer göras för att få en säker Kubernetes-plattform?
 
 **Speaker:** Lars Larsson Elastisys AB
 
