@@ -46,7 +46,7 @@ Lars har jobbat med molnet sedan 2008, både inom industrin och akademin. Han di
 
 **Event link:** [Watch on YouTube](https://youtu.be/gytb5oBb9gM)
 
-**Facebook link:** /kommer snart/
+**Facebook link:** [länk](https://www.facebook.com/events/872548303697419/?__cft__[0]=AZUO8Ky4IWHDQ8toADHEuGLkTsuHo0ypNqs4hogENS4PsidZe12d-nN8yQCTjpObFBolVO-hKyw_m4zdv2ugZn3GrcR8-VoYXFFe-PTdWR_NB7KvkAS7czD-SreU_3RCfs5O6_jD3H7oAYSuHUGst1mypODyyUJUJ5cwVm158Mkmeg&__tn__=-UC%2CP-R)
 
 # Past events
 ## Gråzoner och Nation State-attacker
