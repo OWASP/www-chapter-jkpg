@@ -27,10 +27,15 @@ Det firas med en [online-konferens den 24 september](https://20thanniversary.owa
 
 # Upcoming events
 
+Kommer snart . . . (nyheten sprids även via mailinglistan - prenumerera nu! )
+
 {% include chapter_events.html group=page.meetup-group %}
 
+# Past events
 ## Att bygga en säker Kubernetes-plattform 2021
 <img alt="Lars Larsson" src="assets/images/llarsson9.16.jpg" width="500px"/>
+
+2021-09-23 16:00 - 17:00 CEST
 
 **Abstract:** Med avstamp i de Kubernetes Security Guidance best practices som Amerikanska NSA och CISA publicerade i augusti 2021 guidar Lars oss i området Kubernetes och säkerhet. Räcker det att köra Kubescape, räcker det att följa de amerikanska riktlinjerna, eller behöver mer göras för att få en säker Kubernetes-plattform?
 
@@ -38,17 +43,8 @@ Det firas med en [online-konferens den 24 september](https://20thanniversary.owa
 
 Lars har jobbat med molnet sedan 2008, både inom industrin och akademin. Han disputerade i datavetenskap 2020 och är senior cloud architect på Elastisys. Han är en av arkitekterna bakom Compliant Kubernetes, en certified Kubernetes distribution, speciellt framtagen för att möta de höga krav på säkerhet som ställs inom reglerade branscher.
 
-**Date:** 2021-09-23
+**Ta del av eventet i efterhand:** [Watch on YouTube](https://youtu.be/gytb5oBb9gM)
 
-**Time:** 16:00 - 17:00
-
-**Add to calendar:** [Att_bygga_en_säker_Kubernetes-plattform_2021.ics](assets/Att_bygga_en_säker_Kubernetes-plattform_2021.ics)
-
-**Event link:** [Watch on YouTube](https://youtu.be/gytb5oBb9gM)
-
-**Facebook link:** [länk](https://www.facebook.com/events/872548303697419/?__cft__[0]=AZUO8Ky4IWHDQ8toADHEuGLkTsuHo0ypNqs4hogENS4PsidZe12d-nN8yQCTjpObFBolVO-hKyw_m4zdv2ugZn3GrcR8-VoYXFFe-PTdWR_NB7KvkAS7czD-SreU_3RCfs5O6_jD3H7oAYSuHUGst1mypODyyUJUJ5cwVm158Mkmeg&__tn__=-UC%2CP-R)
-
-# Past events
 ## Gråzoner och Nation State-attacker
 <img alt="Gråzoner" src="assets/images/leif-nixon-grazoner.jpg" width="500px"/>
 
