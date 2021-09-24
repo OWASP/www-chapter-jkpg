@@ -41,6 +41,8 @@ Kommer snart . . . (nyheten sprids även via mailinglistan - prenumerera nu! )
 
 **Speaker:** Lars Larsson Elastisys AB
 
+**Slides:** [Securing Kubernetes Container Platforms in 2021 The NSA_CISA Kubernetes Hardening Guidance and Beyond.pdf](blob/master/assets/slides/Securing%20Kubernetes%20Container%20Platforms%20in%202021_%20The%20NSA_CISA%20Kubernetes%20Hardening%20Guidance%20and%20Beyond.pdf)
+
 Lars har jobbat med molnet sedan 2008, både inom industrin och akademin. Han disputerade i datavetenskap 2020 och är senior cloud architect på Elastisys. Han är en av arkitekterna bakom Compliant Kubernetes, en certified Kubernetes distribution, speciellt framtagen för att möta de höga krav på säkerhet som ställs inom reglerade branscher.
 
 **Ta del av eventet i efterhand:** [Watch on YouTube](https://youtu.be/gytb5oBb9gM)
