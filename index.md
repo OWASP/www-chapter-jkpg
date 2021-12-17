@@ -26,18 +26,21 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 <img alt="Carl Önne" src="assets/images/CarlOnne916.png" width="500px"/>
 
 **Datum** 2022-01-12 
+
 **Tid** 16:00 -- 17:00 CEST
+
 **Plats** Online, länk sänds ut samma dag som eventet, till den epostadress du anger vid bokning. 
+
 **Anmälan** Boka din plats på Eventbrite
 
-Föreläsare: Carl Önne /MSB
+**Föreläsare:** Carl Önne /MSB
 
 **abstract:** Samtidigt som vården i Sverige var hårt belastad av covid-19 så ökade hotet från ransomware. För att öka vårdens motståndskraft mot ransomware inledde MSB i november 2020 en särskild insats. Den pågick sedan fram till slutet av mars. Totalt deltog 28 organisationer i denna samverkansform som innebar att man delade aktuell lägesbild, genomförde informationsdelning, hade viss utbildning och faktiskt lyckade avvärja ett pågående angrepp. Denna presentation går igenom hur insatsen satte upp, vad som gjordes och hur man själv kan sätta upp liknande aktiviteter.
 
 **Bio:** Carl Önne, CISSP, civilingenjör i datateknik från KTH, har sedan 2004 har jobbat med it- och informationssäkerhet där fokus har varit offentlig verksamhet och i synnerhet regioner och kommuner. Carl är sedan 2016 på Myndigheten för samhällsskydd och beredskap (MSB) sedan och nuvarande roll är att förbereda införandet av Galileo PRS (en säker GNSS-tjänst) i Sverige. Innan dess har han på MSB som it-och informationssäkerhetsspecialist bl.a. arbetat med MSBs metodstöd för systematiskt riskbaserat informationssäkerhetsarbete, varit projektledare för regeringsuppdraget att kartlägga informationssäkerhetsarbetet i regionernas hälso- och sjukvårdsverksamhet samt varit huvudförfattare till den förhandsutgåva till vägledning om it-säkerhetsåtgärder som publicerades i samband med MSBs nya föreskrifter MSBFS 2020:7. Carl var under vintern 2020/21 projektledare för insatsen mot ransomware inom vården. 
 
 
-{% include chapter_events.html group=page.meetup-group %}
+#{% include chapter_events.html group=page.meetup-group %}
 
 # Past events
 ## Att bygga en säker Kubernetes-plattform 2021
