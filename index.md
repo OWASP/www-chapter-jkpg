@@ -23,7 +23,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 ## Så kan vi avvärja IT-angrepp 
 
-<img alt="Carl Önne" src="assets/images/CarlOnne916.png" width="500px"/>
+<img alt="Carl Önne" src="assets/images/CarlOnne916@OWASP.png" width="500px"/>
 
 **Datum** 2022-01-12 
 
