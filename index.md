@@ -29,7 +29,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 **Tid** 16:00 -- 17:00 CEST
 
-**Plats** Online, länk sänds ut samma dag som eventet, till den epostadress du anger vid bokning. 
+**Plats** Online, länk tillgänglig efter bokning. 
 
 **Anmälan** https://www.eventbrite.com/e/sa-kan-vi-avvarja-it-angrepp-tickets-229825663747
 
