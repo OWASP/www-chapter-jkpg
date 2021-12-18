@@ -21,7 +21,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 # Upcoming events
 
-## Så stoppar du IT-attacker på riktigt
+## Så kan vi avvärja IT-angrepp 
 
 <img alt="Carl Önne" src="assets/images/CarlOnne916.png" width="500px"/>
 
