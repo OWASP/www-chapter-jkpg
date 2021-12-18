@@ -31,7 +31,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 **Plats** Online, länk sänds ut samma dag som eventet, till den epostadress du anger vid bokning. 
 
-**Anmälan** Boka din plats på Eventbrite
+**Anmälan** https://www.eventbrite.com/e/sa-kan-vi-avvarja-it-angrepp-tickets-229825663747
 
 **Föreläsare:** Carl Önne /MSB
 
