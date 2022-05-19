@@ -22,9 +22,6 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 # Upcoming events
 Stay tuned, subscribe to the [mailing list](https://groups.google.com/a/owasp.org/g/jonkoping-chapter). 
 
-
-#{% include chapter_events.html group=page.meetup-group %}
-
 # Past events
 
 ## Så kan vi avvärja IT-angrepp 
@@ -199,3 +196,7 @@ Slides only shared with attendees and not published online.
 Håkan Sonesson and Christoffer Claesson told us all about how to gather
 and leverage from publicly and semi-public information about our IT
 systems.
+
+
+
+#{_% include chapter_events.html group=page.meetup-group %_}
