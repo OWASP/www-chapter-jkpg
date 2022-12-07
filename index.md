@@ -20,7 +20,28 @@ The best way to stay updated on our events is to subscribe to our [mailing list]
 We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 # Upcoming events
-Stay tuned, subscribe to the [mailing list](https://groups.google.com/a/owasp.org/g/jonkoping-chapter). 
+##Säkerhetspub i Jönköping##
+
+<img alt="Genre picture of hamburger" src="assets/images/burgare.png" width=500px"/> 
+                                                         
+**Datum:** 2022-12-15 
+                                                         
+**Tid:** 17:30 
+                                                         
+                                                         
+**Plats:** Trädgårdsgatan 6, 553 16 Jönköping (Pitcher's)
+                                                         
+Under pandemin har OWASP JKPG kört många virtuella träffar, men nu är det äntligen dags att träffas in person igen. Vi ses på Pitcher's i Jönköping torsdagen den 15 december,  runt halv sex och äter och dricker något gott tillsammans.
+
+Denna gång har vi inga specifika ämnen att diskutera utan vi tar diskussionen dit den kommer.
+
+Anmälan är obligatorisk så att vi vet hur många som kommer.
+
+https://www.eventbrite.com/e/sakerhetspub-i-jonkoping-biljetter-482715804967 
+
+                                                         
+
+For next event, stay tuned, subscribe to the [mailing list](https://groups.google.com/a/owasp.org/g/jonkoping-chapter). 
 
 # Past events
 
