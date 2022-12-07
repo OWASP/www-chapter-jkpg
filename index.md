@@ -23,7 +23,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 ## Säkerhetspub i Jönköping
 
-<img alt="Genre picture of hamburger" src="assets/images/burgare.png" width=500px"/> 
+<img alt="Genre picture of hamburger" src="assets/images/burgare.png" width="500px"/> 
                                                          
 **Datum:** 2022-12-15 
                                                          
