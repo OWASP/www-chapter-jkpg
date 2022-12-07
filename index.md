@@ -20,7 +20,8 @@ The best way to stay updated on our events is to subscribe to our [mailing list]
 We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 # Upcoming events
-##Säkerhetspub i Jönköping##
+
+##Säkerhetspub i Jönköping
 
 <img alt="Genre picture of hamburger" src="assets/images/burgare.png" width=500px"/> 
                                                          
