@@ -38,7 +38,7 @@ Denna gång har vi inga specifika ämnen att diskutera utan vi tar diskussionen 
 
 Anmälan är obligatorisk så att vi vet hur många som kommer.
 
-https://www.eventbrite.com/e/sakerhetspub-i-jonkoping-biljetter-482715804967 
+[https://www.eventbrite.com/e/sakerhetspub-i-jonkoping-biljetter-482715804967]
 
                                                          
 
