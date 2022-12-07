@@ -21,7 +21,7 @@ We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
 # Upcoming events
 
-##Säkerhetspub i Jönköping
+## Säkerhetspub i Jönköping
 
 <img alt="Genre picture of hamburger" src="assets/images/burgare.png" width=500px"/> 
                                                          
