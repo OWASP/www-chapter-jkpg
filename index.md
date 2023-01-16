@@ -19,7 +19,11 @@ The best way to stay updated on our events is to subscribe to our [mailing list]
 
 We also have a [Facebook page](https://www.facebook.com/owaspjkpg/).
 
-# Upcoming events
+# Upcoming events                                    
+
+For next event, stay tuned, subscribe to the [mailing list](https://groups.google.com/a/owasp.org/g/jonkoping-chapter). 
+
+# Past events
 
 ## Säkerhetspub i Jönköping
 
@@ -40,11 +44,7 @@ Anmälan är obligatorisk så att vi vet hur många som kommer.
 
 [https://www.eventbrite.com/e/sakerhetspub-i-jonkoping-biljetter-482715804967](https://www.eventbrite.com/e/sakerhetspub-i-jonkoping-biljetter-482715804967)
 
-                                                         
 
-For next event, stay tuned, subscribe to the [mailing list](https://groups.google.com/a/owasp.org/g/jonkoping-chapter). 
-
-# Past events
 
 ## Så kan vi avvärja IT-angrepp 
 
