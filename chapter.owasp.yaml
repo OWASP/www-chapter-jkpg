@@ -1,0 +1,32 @@
+community:
+  - name: chapter-jkpg
+    platform: slack
+    url: https://owasp.slack.com/archives/CU74RD3T2
+    description: OWASP Chapter In Jönköping, Sweden
+leaders:
+  - name: Jonathan Jogenfors
+    email: jonathan.jogenfors@owasp.org
+    github: etnoy
+  - name: Per Josefsson
+    email: per.josefsson@owasp.org
+    github: j0sper
+  - name: Håkan Sonesson
+    email: hakan.sonesson@owasp.org
+location:
+  country: Sweden
+  country_code: SE
+  region: Jönköping County
+  city: Jönköping
+  latitude: 57.7825634
+  longitude: 14.165719
+meetup_group: owasp-jonkoping-meetup-group
+name: OWASP JKPG
+repositories:
+  - name: www-chapter-jkpg
+    url: https://github.com/OWASP/www-chapter-jkpg
+    description: Repository for the web pages of the OWASP JKPG chapter (Jönköping, Sweden)
+tags:
+  - jkpg
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-jkpg
